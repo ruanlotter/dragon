@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 22,
+    "left": 0,
+    "width": 716,
+    "height": 954,
+    "isRotated": false,
+    "originalWidth": 716,
+    "originalHeight": 1000
+  },
+  "imagePath": "image-targets/Card_WithQR_luminance.png",
+  "metadata": null,
+  "name": "Card_WithQR",
+  "resources": {
+    "originalImage": "Card_WithQR_original.png",
+    "croppedImage": "Card_WithQR_cropped.png",
+    "thumbnailImage": "Card_WithQR_thumbnail.png",
+    "luminanceImage": "Card_WithQR_luminance.png"
+  },
+  "created": 1795280068565,
+  "updated": 1795280068565
+}
